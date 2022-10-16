@@ -1,0 +1,50 @@
+* {
+    color:rgb(59, 59, 78);
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+
+header {
+    text-align: center;
+}
+
+h2 {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.container {
+    
+    height: 100%;
+    width: 100%;
+    background-color:rgb(100, 177, 100);
+    padding: 20px;
+}
+
+.theme, .when, .where {
+    width: 25%;
+    margin: 20px;
+    padding: 50px;
+    height: 100%;
+    display: inline-block;
+
+    
+    
+}
+
+.theme {
+    background-color:bisque;
+    
+}
+.when {
+    background-color:rgb(175, 197, 113);
+}
+.where {
+    background-color:rgb(141, 120, 95);
+}
+
+p {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
